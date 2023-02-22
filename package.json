@@ -1,0 +1,17 @@
+{
+  "name": "emailnewsletter",
+  "version": "1.0.0",
+  "description": "this is app for news letter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shailesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "body-passer": "^1.0.0",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
